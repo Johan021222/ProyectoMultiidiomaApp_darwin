@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ProyectoMultiidiomaApp_darwin</string>
+    <string name="app_name">Proyecto Multiidioma</string>
+    <string name="titulo_bienvenida">¡Bienvenido!</string>
+    <string name="boton_entrar">Entrar</string>
 </resources>
